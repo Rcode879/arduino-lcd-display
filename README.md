@@ -50,7 +50,7 @@ This Python script allows you to send messages from your computer to an Arduino 
     Open a terminal or command prompt, navigate to the directory, and run:
 
     ```bash
-    python lcd_.py
+    python lcd.py
     ```
 
 3. **Modify the script as needed**:
